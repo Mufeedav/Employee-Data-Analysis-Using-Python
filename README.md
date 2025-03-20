@@ -1,0 +1,2 @@
+This project deals with the dataset from ABC company, consisting of 458 rows and 9 columns. The tasks include preprocessing the dataset, analyzing the data, and presenting the findings graphically.
+This analysis provides a clear understanding of the workforce distribution, salary trends, and team structures. The insights can be used to optimize hiring, salary distribution, and workforce management for ABC Company
